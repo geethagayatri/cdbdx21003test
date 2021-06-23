@@ -4,3 +4,5 @@ function sayhi(){
 
  return   "hello"
 }
+
+let result =sayhi()
